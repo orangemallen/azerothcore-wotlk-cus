@@ -176,3 +176,5 @@ This project exists thanks to:
 
 [![JetBrains](https://user-images.githubusercontent.com/75517/51205146-7f225c80-1905-11e9-82e0-835627be170d.png)](https://www.jetbrains.com/?from=AzerothCore)
 
+## Soecial info
+THIS IS A CUSTOM BRANCH FOR MY SELF.
